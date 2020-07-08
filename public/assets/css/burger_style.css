@@ -1,0 +1,13 @@
+#burger-img {
+    width: 20%;
+    position: relative;
+    float: left;
+    margin-right: 10px;
+}
+#unfloat {
+    position: relative;
+    float: none;
+}
+.jumbotron {
+    background-color: #f8f8f8;
+}
